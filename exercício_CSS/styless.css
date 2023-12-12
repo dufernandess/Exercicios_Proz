@@ -1,0 +1,65 @@
+/*comandos para utilização do justify-content:"
+
+- flex-start: left side of the conteiner
+- flex-end: tight side of the container
+- center: center of the container
+- space-between: items display with equal spacing between them
+- space-aroud: items display with equal spacing aroud them */
+
+/*comandos para utilização do align-items:"
+
+- flex-start: items align to the top of the container
+- flex-end: items align to the bottom of the container
+- center: items align at the vertical center of the container
+- space-between: items display at the baseline of the container
+- space-aroud: items are stretched to fit the conteiner */
+
+p {
+    font-family: sans-serif;
+    color: red;
+    font-size: 50px;
+}
+
+.azul {
+    color: rgb(55, 0, 252);
+}
+
+.verde-bg {
+    background: rgb(43, 235, 4);
+}
+
+.elegante {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+}
+
+span#exemploId {
+    background-color: red;
+  }
+  
+a {
+color: blue;
+}
+/* Links internos, começando com "#" */
+a[href^="#"] {
+background-color: gold;
+}
+/* Links com "example" em qualquer lugar da URL */
+a[href*="example"] {
+background-color: silver;
+}
+/* Links com "insensitive" em qualquer lugar da URL,
+    independentemente da capitalização */
+a[href*="insensitive" i] {
+color: cyan;
+}
+/* Links com final ".org" */
+a[href$=".org"] {
+color: red;
+}
+span {
+    background-color: pink;
+  }
+  
+  
+  

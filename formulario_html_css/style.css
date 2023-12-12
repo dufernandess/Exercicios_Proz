@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    background-color: grey;
+}
+
+div {
+    background-color: lightslategray;
+    padding: 20px;
+    margin: 40px;
+    border: solid black 5px;
+}
+
+/*
+padding-top - TOPO
+padding-right - DIREITA
+padding-bottom - EMBAIXO
+padding-left - ESQUERDA
+
+margin-top - TOPO
+margin-right - DIREITA
+margin-bottom - EMBAIXO
+margin-left - ESQUERDA
+*/
+
+p {
+    background-color: violet;
+}
