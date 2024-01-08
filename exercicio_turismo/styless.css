@@ -19,11 +19,11 @@ a {
 }
 
 h1, h2 {
-    color:blue;
+    color:white;
 }
 
 p {
-    color: rgb(4, 0, 98);
+    color:white;
     font-size: 20px;
 }
 
@@ -34,4 +34,8 @@ img {
 button {
     background-color:brown;
     
+}
+
+main {
+    background-color: grey;
 }
