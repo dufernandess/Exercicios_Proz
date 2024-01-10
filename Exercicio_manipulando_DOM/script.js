@@ -12,6 +12,7 @@ ul.innerHTML = `
 <li>Item 2</li>
 <li>Item 3</li>
 `
+
 ol.innerHTML = `
 <li><a href="https://facebook.com/">Facebook</a></li>
 <li><a href="https://google.com/">Google</a></li>
