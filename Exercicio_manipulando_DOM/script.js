@@ -13,7 +13,7 @@ ul.innerHTML = `
 <li>Item 3</li>
 `
 ol.innerHTML = `
-<li><a href="https://facebook.com/">Facebook</li>
-<li><a href="https://google.com/">Google</li>
-<li><a href="https://instagram.com/">Instagram</li>
+<li><a href="https://facebook.com/">Facebook</a></li>
+<li><a href="https://google.com/">Google</a></li>
+<li><a href="https://instagram.com/">Instagram</a></li>
 `
